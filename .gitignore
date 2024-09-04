@@ -15,8 +15,7 @@ web-build/
 
 # firebase
 firebase.js
-#twilio
-verify.js
+
 #eas.json
 eas.json
 
